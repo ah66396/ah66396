@@ -8,7 +8,7 @@ Infrastructure and Engine developer at [Bytefight](https://bytefight.org/) @ GT.
 https://currentcrisis.net/overview : Developer
 
 ## What I am currently working on:
-Build A Guild (Game written in Luau)<br>
+Build A Guild (Game written in Luau) 🔒<br>
 macromage (visual based hotstring configuration that triggers user set functionality)
 
 ## Other projects:
