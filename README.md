@@ -1,14 +1,13 @@
 ## Hi there 👋
+My current interests are game development and exploring more about deep learning.
 
-##My current interests are game development and exploring more about deep learning.
+## My Orgs:
 
-##My Orgs:
+## Past Involvement:
 
-##Past Involvement:
+## What I am currently working on:
 
-##What I am currently working on:
-
-##Other projects:
+## Other projects:
 
 
 
