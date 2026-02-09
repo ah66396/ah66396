@@ -2,7 +2,7 @@
 My current interests are game development and exploring all things deep learning (none of that yucky NLP stuff).
 
 ## My Orgs:
-Infrastructure and Engine developer at [Bytefight](https://bytefight.org/) @ GT. Our platform hosts competition in the AI space. Check us out at https://bytefight.org!
+Infrastructure and Engine developer at [Bytefight](https://bytefight.org/) @ GT. Our platform hots and aims to support hosting competitions in the AI space. Check us out at https://bytefight.org!
 
 ## Past Involvement:
 https://currentcrisis.net/overview : Developer
