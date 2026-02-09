@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ah66396/ah66396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##My current interests are game development and exploring more about deep learning.
 
-Here are some ideas to get you started:
+##My Orgs:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Past Involvement:
+
+##What I am currently working on:
+
+##Other projects:
+
+
+
