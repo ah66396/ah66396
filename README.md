@@ -1,5 +1,5 @@
 ## Hi there 👋
-My current interests are game development and exploring all things deep learning (none of that yucky NLP stuff).
+My current interests are game development and exploring all things deep learning
 
 ## My Orgs:
 Infrastructure developer at [Bytefight](https://bytefight.org/) @ GT. Our platform hots and aims to support hosting competitions in the AI space. Check us out at https://bytefight.org!
