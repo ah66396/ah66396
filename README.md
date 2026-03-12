@@ -15,6 +15,7 @@ macromage (visual based hotstring configuration that triggers user set functiona
 [Exploration of Video Deepfake Detection via multimodal(video, audio) recombination] (https://github.com/esha-shaik/deepfake-detection)<br>
 Dungeon Crawler (mobile game) 🔒<br>
 Classification of Heart Disease (using multiple ML models across 15+ features) 🔒<br>
+And more!
 **Reach out to explore 🔒 locked repos**
 
 
